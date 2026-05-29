@@ -1,0 +1,6 @@
+venv/
+.venv/
+.env
+generated_code/
+uploads/
+__pycache__/
